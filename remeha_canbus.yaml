@@ -1,0 +1,161 @@
+esphome:
+  name: remeha-canbus
+  platform: esp32
+  board: esp32dev
+  # on_boot:
+  #   then:
+  #     - lambda: id(canbus_messages).publish_state(0);
+  includes:
+    - canbus_udp.h
+
+custom_component:
+  - lambda: |-
+      auto my_custom = new MyCustomComponent();
+      return {my_custom};
+    components:
+      - id: my_custom_id
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_pass
+
+  on_connect:
+    then:
+      - lambda: sock = ::socket(AF_INET, SOCK_DGRAM, 0);
+
+logger:
+  level: INFO
+
+ota:
+
+api:
+  reboot_timeout: 0s
+
+web_server:
+
+prometheus:
+
+mqtt:
+  id: mqtt_client
+  broker: mqtt.iot
+
+sensor:
+  - name: Canbus messages
+    # id: canbus_messages
+    platform: template
+    update_interval: 5s
+    lambda: |-
+      return canbus_messages;
+  - platform: uptime
+    name: Uptime Sensor
+  - platform: template
+    name: "Aanvoer Temperatuur"
+    id: temperatuur_aanvoer
+  - platform: template
+    name: "Buiten Temperatuur"
+    id: temperatuur_buiten
+  - platform: template
+    name: "Waterdruk"
+    id: waterdruk
+  - platform: template
+    name: "status"
+    id: status
+  - platform: template
+    name: "substatus"
+    id: substatus
+
+canbus:
+  - id: can
+    platform: esp32_can
+    tx_pin: GPIO22
+    rx_pin: GPIO21
+    can_id: 41
+    bit_rate: 1000kbps
+    use_extended_id: true
+    on_frame:
+      # canbus can_id: 1152 (0480), size: 7, data: 0320ffffff0121
+      # INFO:__main__:Status: 32, Substatus: 3, rest: (-1, -1, -1, 1, 33), hexdata: 0320ffffff0121
+      - can_id: 0x480
+        can_id_mask: 0x480
+        then:
+          - lambda: |-
+              char buf[10];
+              if (x.size() == 7){
+                id(status).publish_state(x[0]);
+                id(substatus).publish_state(x[1]);
+                // id(mqtt_client).publish("remeha/status", itoa(x[0], buf, 10));
+                // id(mqtt_client).publish("remeha/substatus", itoa(x[1], buf, 10));
+                // ESP_LOGI("Remeha", "Status %u, Substatus: %u", x[0], x[1]);
+              }
+
+        # canbus canid: 449  co_id: 65 fc: 384  (0180), size: 8, data: 000700040b11ae0b
+        # INFO:__main__:Aanvoer temp: 29.90, retour temp?: 28.20, druk: 1.70, rest: (0, 7, 0, 2820, 17), hexdata: 000700040b11ae0b
+      - can_id: 0x1c1
+        can_id_mask: 0x1c1
+        then:
+          - lambda: |-
+              struct packet1 {
+                char x[5];
+                char druk;
+                uint16_t aanvoer;
+              } __attribute__((packed));
+              packet1 p;
+
+              std::uninitialized_copy(x.begin(), x.end(), (unsigned char *)&p);
+
+              uint co_id = can_id & 0x7F;
+              uint co_fc = can_id & 0x780;
+
+              if (co_id == 65 && co_fc == 384 && p.x[1] == 0x07){
+                id(waterdruk).publish_state(p.druk/10.0);
+                id(temperatuur_aanvoer).publish_state(p.aanvoer/100.0);
+                //id(mqtt_client).publish("remeha/aanvoer", ftoa(htonl(p.aanvoer), buf, 10)/100.0);
+                //id(mqtt_client).publish("remeha/druk", ftoa(p.druk, buf, 10)/10.0);
+              }
+
+      - can_id: 0x381
+        can_id_mask: 0x381
+        then:
+          - lambda: |-
+              struct packet1 {
+                uint16_t buiten;
+                char x[6];
+              } __attribute__((packed));
+              packet1 p;
+
+              std::uninitialized_copy(x.begin(), x.end(), (unsigned char *)&p);
+
+              uint co_id = can_id & 0x7F;
+              uint co_fc = can_id & 0x780;
+
+              if (co_id == 1 && co_fc == 896 ){
+                id(temperatuur_buiten).publish_state(p.buiten/100.0);
+              }
+
+#      - can_id: 0x180
+#        can_id_mask: 0x180
+#        then:
+#          - lambda: |-
+#              char buf[10];
+#              if (x.size() == 8 && x[0] == 0x00 && x[1] == 0x07){
+#                id(mqtt_client).publish("remeha/temperatuur_aanvoer", itoa(x[0], buf, 10));
+#                id(mqtt_client).publish("remeha/substatus", itoa(x[1], buf, 10));
+#                ESP_LOGI("Remeha", "Status %u, Substatus: %u", x[0], x[1]);
+#              }
+
+
+      - can_id: 0
+        can_id_mask: 0
+        # use_extended_id: true
+        then:
+          - lambda: |-
+              canbus_messages++;
+          - lambda: |-
+              std::uninitialized_copy(x.begin(), x.end(), (unsigned char *)p.data);
+
+              p.can_id = can_id;
+              p.size = x.size();
+
+              int n_bytes = ::sendto(sock, &p, sizeof(p), 0,
+                                    reinterpret_cast<sockaddr *>(&destination),
+                                    sizeof(destination));

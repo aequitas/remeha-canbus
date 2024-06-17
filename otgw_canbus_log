@@ -1,0 +1,1862 @@
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 0    (0000), size: 1, data: 88
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+G22:57:58.782719  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+N22:57:59.781821  T00050000  Read-Data   Application-specific flags: 00000000 0
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+P22:57:59.782213  BC00500FF  Read-Ack    Application-specific flags: 00000000 255
+A22:58:00.781465  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+A22:58:00.781816  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:01.781505  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 384  (0180), size: 8, data: 10000000ffffffff
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+>22:58:01.781871  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:02.781375  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 0    (0000), size: 1, data: 89
+canbus can_id: 256  (0100), size: 6, data: 089fea046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+G22:58:02.781731  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:03.832305  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+G22:58:03.832651  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+A22:58:04.881259  T801B08CC  Read-Data   Outside temperature: 8.80
+canbus can_id: 512  (0200), size: 8, data: 4008400200000000
+canbus can_id: 384  (0180), size: 8, data: 8008400211000906
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+A22:58:04.881607  BC01B08E6  Read-Ack    Outside temperature: 8.90
+A22:58:05.906149  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:58:05.906571  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:06.931224  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 0    (0000), size: 1, data: 8a
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:06.931694  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:07.956360  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+G22:58:07.956884  BC0110000  Read-Ack    Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+F22:58:08.481410  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+G22:58:09.025356  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+Q22:58:09.531326  T900E6400  Write-Data  Maximum relative modulation level: 100.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+Q22:58:10.056508  B500E6400  Write-Ack   Maximum relative modulation level: 100.00
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+A22:58:10.581197  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+A22:58:11.106164  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:11.639146  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 0    (0000), size: 1, data: 8b
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+>22:58:11.639607  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:12.656014  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+G22:58:12.656482  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:13.680969  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 256  (0100), size: 6, data: 18c6ea046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 4004340000000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+G22:58:13.681385  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+<22:58:14.705946  T10100F00  Write-Data  Room setpoint: 15.00
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+<22:58:14.706374  BD0100F00  Write-Ack   Room setpoint: 15.00
+A22:58:15.706235  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 0    (0000), size: 1, data: 8c
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+A22:58:15.706686  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:16.705921  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+>22:58:16.706377  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:17.705929  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+G22:58:17.706360  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:18.705899  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 0    (0000), size: 1, data: 8d
+G22:58:18.706335  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+?22:58:19.755631  T101813CA  Write-Data  Room temperature: 19.79
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+?22:58:19.756079  BD01813CA  Write-Ack   Room temperature: 19.79
+A22:58:20.805683  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+A22:58:20.806149  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:21.830587  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:21.831027  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:22.881647  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 28edea046839
+canbus can_id: 0    (0000), size: 1, data: 8e
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+G22:58:22.882067  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:23.930531  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+G22:58:23.930999  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+E22:58:24.955859  T007B0000  Read-Data   DHW burner operation hours: 0
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+E22:58:24.956317  BC07B0003  Read-Ack    DHW burner operation hours: 3
+A22:58:25.980522  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:58:25.980953  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:27.005527  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 8f
+>22:58:27.005926  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:28.030728  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:58:28.031222  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:29.055258  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 384  (0180), size: 8, data: 1500000000000000
+G22:58:29.055685  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+N22:58:30.055468  T00050000  Read-Data   Application-specific flags: 00000000 0
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+P22:58:30.055897  BC00500FF  Read-Ack    Application-specific flags: 00000000 255
+A22:58:31.055300  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 90
+A22:58:31.055721  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:32.057509  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:32.057975  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:33.056098  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 3814eb046839
+canbus can_id: 512  (0200), size: 8, data: 4097500000000000
+canbus can_id: 384  (0180), size: 8, data: 8097500000000206
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 512  (0200), size: 8, data: 4062300000000000
+G22:58:33.056501  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:34.055321  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f13300001000000
+canbus can_id: 512  (0200), size: 8, data: 400f300000000000
+G22:58:34.055739  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+A22:58:35.105112  T801B08CC  Read-Data   Outside temperature: 8.80
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 91
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+A22:58:35.105464  BC01B08E6  Read-Ack    Outside temperature: 8.90
+A22:58:36.155192  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+A22:58:36.155614  BC0000000  Read-Ack    Status: 00000000 00000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:36.680052  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+>22:58:37.205166  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:37.730376  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+G22:58:37.730812  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:38.755081  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+G22:58:38.755491  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+Q22:58:39.779902  T900E6400  Write-Data  Maximum relative modulation level: 100.00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 92
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+Q22:58:39.780354  B500E6400  Write-Ack   Maximum relative modulation level: 100.00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+A22:58:40.804988  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+A22:58:41.329925  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:41.854932  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:41.855380  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:42.879920  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 483beb046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+G22:58:42.880340  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:43.904826  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 0    (0000), size: 1, data: 93
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+G22:58:43.905240  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+<22:58:44.930146  T10100F00  Write-Data  Room setpoint: 15.00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+<22:58:44.930557  BD0100F00  Write-Ack   Room setpoint: 15.00
+A22:58:45.955096  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:58:45.955523  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:46.954736  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 94
+>22:58:46.955153  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:47.954595  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+G22:58:47.955000  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:48.954810  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+G22:58:48.955292  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+?22:58:49.954711  T901813C7  Write-Data  Room temperature: 19.78
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+?22:58:49.955165  B501813C7  Write-Ack   Room temperature: 19.78
+A22:58:51.004554  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 95
+A22:58:51.004932  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:52.054852  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:58:52.055274  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:53.079363  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 5862eb046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 4004340000000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:58:53.079747  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:54.104457  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+G22:58:54.104827  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+F22:58:55.129375  T806D0000  Read-Data   Electricity producer starts: 0
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 96
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+F22:58:55.129783  B706D0000  Unk-DataId  Electricity producer starts: 0
+A22:58:56.154286  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:58:56.154635  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:58:57.179196  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+>22:58:57.179649  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:58:58.204556  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:58:58.204983  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:58:59.229332  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 97
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+G22:58:59.229798  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+N22:59:00.254231  T00050000  Read-Data   Application-specific flags: 00000000 0
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+P22:59:00.254627  BC00500FF  Read-Ack    Application-specific flags: 00000000 255
+A22:59:01.254667  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+A22:59:01.255119  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:02.255499  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:59:02.255919  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:59:03.254384  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 6889eb046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 0    (0000), size: 1, data: 98
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+G22:59:03.254803  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:04.254854  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 512  (0200), size: 8, data: 4008400200000000
+canbus can_id: 384  (0180), size: 8, data: 8008400211000906
+G22:59:04.255314  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+A22:59:05.255037  T801B08CC  Read-Data   Outside temperature: 8.80
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+A22:59:05.255455  BC01B08E6  Read-Ack    Outside temperature: 8.90
+A22:59:06.304019  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:59:06.304454  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:06.828929  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 99
+>22:59:07.354038  BD0010600  Write-Ack   Control setpoint: 6.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+G22:59:07.878880  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+G22:59:08.408863  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:08.928834  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+G22:59:08.929246  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+Q22:59:09.954181  T900E6400  Write-Data  Maximum relative modulation level: 100.00
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+Q22:59:09.954650  B500E6400  Write-Ack   Maximum relative modulation level: 100.00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+A22:59:10.978913  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 9a
+A22:59:10.979387  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:12.003797  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:59:12.004254  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:59:13.054124  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 78b0eb046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 4004340000000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:59:13.054565  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:14.078699  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+G22:59:14.079187  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+<22:59:15.103717  T10100F00  Write-Data  Room setpoint: 15.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 9b
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+<22:59:15.104110  BD0100F00  Write-Ack   Room setpoint: 15.00
+A22:59:16.132625  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:59:16.133079  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:17.154085  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+>22:59:17.154506  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:59:18.153389  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:59:18.153826  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:19.161454  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 9c
+G22:59:19.161936  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+?22:59:20.153545  T901813C7  Write-Data  Room temperature: 19.78
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+?22:59:20.153986  B501813C7  Write-Ack   Room temperature: 19.78
+A22:59:21.153479  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+A22:59:21.153887  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:22.203317  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:59:22.203787  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:59:23.256562  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 88d7eb046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 0    (0000), size: 1, data: 9d
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+G22:59:23.257011  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:24.287269  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+G22:59:24.287713  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+E22:59:25.304639  T806E0000  Read-Data   Electricity producer hours: 0
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+E22:59:25.305030  B706E0000  Unk-DataId  Electricity producer hours: 0
+A22:59:26.328582  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:59:26.329041  BC0000000  Read-Ack    Status: 00000000 00000000
+>22:59:27.353090  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 9e
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+>22:59:27.353554  BD0010600  Write-Ack   Control setpoint: 6.00
+G22:59:28.378631  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ac030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:59:28.379043  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:29.403435  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+G22:59:29.403878  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+N22:59:29.928860  T00050000  Read-Data   Application-specific flags: 00000000 0
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+P22:59:30.453768  BC00500FF  Read-Ack    Application-specific flags: 00000000 255
+canbus can_id: 1024 (0400), size: 0, data: 
+A22:59:30.978396  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: 9f
+A22:59:31.502793  BC0000000  Read-Ack    Status: 00000000 00000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+>22:59:32.002917  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+>22:59:32.502921  BD0010600  Write-Ack   Control setpoint: 6.00
+canbus can_id: 1024 (0400), size: 0, data: 
+G22:59:33.005234  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 98feeb046839
+canbus can_id: 512  (0200), size: 8, data: 4097500000000000
+canbus can_id: 384  (0180), size: 8, data: 8097500000000206
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 384  (0180), size: 8, data: 10000000ffffffff
+canbus can_id: 512  (0200), size: 8, data: 4062300000000000
+G22:59:33.504385  BC0110000  Read-Ack    Relative modulation level: 0.00
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+F22:59:34.009043  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 512  (0200), size: 8, data: 4018300000000000
+G22:59:34.502873  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+canbus can_id: 512  (0200), size: 8, data: 400f300000000000
+canbus can_id: 1024 (0400), size: 0, data: 
+A22:59:35.002949  T801B08CC  Read-Data   Outside temperature: 8.80
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a0
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+A22:59:35.502600  B401B08E1  Read-Ack    Outside temperature: 8.88
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+A22:59:36.002819  T00000000  Read-Data   Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+A22:59:36.502730  BC0000000  Read-Ack    Status: 00000000 00000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+>22:59:37.002882  T10010600  Write-Data  Control setpoint: 6.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+>22:59:37.552853  BD0010600  Write-Ack   Control setpoint: 6.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+G22:59:38.077830  T00110000  Read-Data   Relative modulation level: 0.00
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+G22:59:38.602611  BC0110000  Read-Ack    Relative modulation level: 0.00
+F22:59:39.128693  T80190000  Read-Data   Boiler water temperature: 0.00
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a1
+G22:59:39.130442  BC01919CC  Read-Ack    Boiler water temperature: 25.80
+Q22:59:40.152741  T900E6400  Write-Data  Maximum relative modulation level: 100.00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: a825ec046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 0    (0000), size: 1, data: a2
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a3
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7b037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a4
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: b84cec046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 4001350000000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f13300001000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 0    (0000), size: 1, data: a5
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a6
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: c873ec046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 0    (0000), size: 1, data: a7
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 512  (0200), size: 8, data: 4008400200000000
+canbus can_id: 384  (0180), size: 8, data: 8008400211000906
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a8
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: a9
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: d89aec046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 4004340000000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f13300001000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 0    (0000), size: 1, data: aa
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: ab
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: e8c1ec046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 0    (0000), size: 1, data: ac
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: ad
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 78037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: ae
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: f8e8ec046839
+canbus can_id: 512  (0200), size: 8, data: 4097500000000000
+canbus can_id: 384  (0180), size: 8, data: 8097500000000206
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 512  (0200), size: 8, data: 4004340100000000
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 512  (0200), size: 8, data: 4018300000000000
+canbus can_id: 512  (0200), size: 8, data: 400f300000000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 0    (0000), size: 1, data: af
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 01031800140a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 0    (0000), size: 1, data: b0
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b11140a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 0810ed046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 00140a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 0    (0000), size: 1, data: b1
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 0    (0000), size: 1, data: b2
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 010318000a0a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 384  (0180), size: 8, data: 4f851f0003000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 0    (0000), size: 1, data: b3
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 1837ed046839
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 4011300000000000
+canbus can_id: 384  (0180), size: 8, data: 8011300000000206
+canbus can_id: 512  (0200), size: 8, data: 4012300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f12300001000000
+canbus can_id: 512  (0200), size: 8, data: 4013300000000000
+canbus can_id: 384  (0180), size: 8, data: 4f13300001000000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 0    (0000), size: 1, data: b4
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1152 (0480), size: 8, data: 01010000ffffff03
+canbus can_id: 1152 (0480), size: 8, data: 010318000a0a0010
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 7b037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 0    (0000), size: 1, data: b5
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 512  (0200), size: 8, data: 40851f0000000000
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 256  (0100), size: 6, data: 285eed046839
+canbus can_id: 896  (0380), size: 8, data: 7a037b03ab030001
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 640  (0280), size: 5, data: 000a0a1800
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 640  (0280), size: 8, data: 0300000000000000
+canbus can_id: 0    (0000), size: 1, data: b6
+canbus can_id: 1920 (0780), size: 8, data: 510b000000800000
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 40a7500000000000
+canbus can_id: 384  (0180), size: 8, data: 4fa7500000000000
+canbus can_id: 512  (0200), size: 8, data: 40aa500000000000
+canbus can_id: 384  (0180), size: 8, data: 4faa500000000000
+canbus can_id: 512  (0200), size: 8, data: 4008400200000000
+canbus can_id: 896  (0380), size: 8, data: 00000000ffffff00
+canbus can_id: 1024 (0400), size: 0, data: 
+canbus can_id: 1024 (0400), size: 8, data: 59053c2d08000b01
+canbus can_id: 1792 (0700), size: 1, data: 05
+canbus can_id: 128  (0080), size: 0, data: 
+canbus can_id: 512  (0200), size: 8, data: 403f500000000000
+canbus can_id: 384  (0180), size: 8, data: 413f500028000000
+canbus can_id: 512  (0200), size: 8, data: 6000000000000000
+canbus can_id: 384  (0180), size: 8, data: 000700040b110a0a
+canbus can_id: 512  (0200), size: 8, data: 7000000000000000
+canbus can_id: 384  (0180), size: 8, data: 1500000000000000
+canbus can_id: 1152 (0480), size: 7, data: 0000ffffff0004
+^CTraceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/johan/projects/remeha/esphome-canbus/udp_canbus.py", line 26, in <module>
+    data, addr = sock.recvfrom(1024) # buffer size is 1024 bytes
+                 ^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+~/p/r/esphome-canbus [SIGINT] $ 
